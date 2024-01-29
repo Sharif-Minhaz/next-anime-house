@@ -10,7 +10,7 @@ import ScrollUp from "@/components/ScrollUp";
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Anime Vault",
+	title: "Anime House",
 	description: "Your favorite anime, all in one place.",
 };
 
